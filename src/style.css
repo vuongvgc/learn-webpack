@@ -1,0 +1,12 @@
+.hello {
+    color: red;
+    font-size: 2.4rem;
+    background: url('./image.jpg');
+}
+@font-face {
+    font-family: 'font-project';
+    src: url('./font-project.ttf');
+}
+body {
+    font-family: 'font-project';
+}
